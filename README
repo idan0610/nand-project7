@@ -1,0 +1,21 @@
+daph.kaplan, idan0610
+===============================================================================
+Daphna Kaplan, ID 204092613, daph.kaplan@mail.huji.ac.il
+Idan Refaeli, ID 305681132, idan.refaeli@mail.huji.ac.il
+===============================================================================
+
+                           Project 7 - VMtranslator
+                           ---------------------
+  
+
+Submitted Files
+---------------
+README 			- This file.
+VMtranslator.py 	- The Assembler program
+VMtranslator 		- Shell script to run the assembler
+Makefile		- Makefile for the project
+
+Remarks
+-------
+we created two classes - one for the parser and one for the 
+code writed as suggested in lecture 7. 
